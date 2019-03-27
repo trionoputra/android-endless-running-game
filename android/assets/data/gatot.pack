@@ -1,0 +1,165 @@
+
+gatot.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tanah
+  rotate: false
+  xy: 1, 869
+  size: 2399, 42
+  orig: 2399, 42
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 67
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1, 1
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+awan
+  rotate: false
+  xy: 2402, 884
+  size: 92, 27
+  orig: 92, 27
+  offset: 0, 0
+  index: -1
+
+gatot2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bintang/1
+  rotate: false
+  xy: 1, 1
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+bintang/2
+  rotate: false
+  xy: 21, 1
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+bintang/3
+  rotate: false
+  xy: 41, 1
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+
+gatot3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+burung/2
+  rotate: false
+  xy: 1, 1
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+burung/1
+  rotate: false
+  xy: 89, 9
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+
+gatot4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gunungan/4
+  rotate: false
+  xy: 1, 1
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+gunungan/3
+  rotate: false
+  xy: 58, 15
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+gunungan/2
+  rotate: false
+  xy: 111, 15
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+gunungan/5
+  rotate: false
+  xy: 147, 1
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+gunungan/1
+  rotate: false
+  xy: 170, 15
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+
+gatot5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player/1
+  rotate: false
+  xy: 1, 1
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+player/3
+  rotate: false
+  xy: 79, 1
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+player/4
+  rotate: false
+  xy: 157, 1
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+player/2
+  rotate: false
+  xy: 235, 1
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+player/5
+  rotate: false
+  xy: 311, 37
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+player/6
+  rotate: false
+  xy: 409, 37
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
